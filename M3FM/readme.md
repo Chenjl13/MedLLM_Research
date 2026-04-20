@@ -16,7 +16,13 @@
 
 ## Output
 1) Output_dict
+<img src="imgs/output_dict.png">
+
 
 2) Txt_html
+<img src="imgs/output_txt_html.png">
+
 3) Img
+
+
 4) Img_attn
