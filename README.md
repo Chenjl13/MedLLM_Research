@@ -1,6 +1,6 @@
 # MedLLM_Research
 Medical Large Language Model Study
-<img src="/imgs/latest_model.png">
+<img src="/imgs/OurModel.png">
 
 ### MSLoRA Reimplementation
 click [here](MSLoRA_3tasks/readme.md) 
