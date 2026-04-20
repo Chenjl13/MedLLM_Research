@@ -1,7 +1,7 @@
 # Welcome to the successful reimplementation of M3FM!
 
 ## Input
-<img src="imgs/img_attn.png">
+<img src="imgs/input.png">
 
 
 
