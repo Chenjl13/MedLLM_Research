@@ -2,6 +2,9 @@
 Medical Large Language Model Study
 <img src="/imgs/OurModel.png">
 
+### QWEN_LoRA
+click [here](QWEN_LoRA/readme.md) 
+
 ### MSLoRA Reimplementation
 click [here](MSLoRA_3tasks/readme.md) 
 
